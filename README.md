@@ -1,5 +1,5 @@
 ### Hi there 👋
-The pinned repositories are various projects that Kissu uses on it's site.
+The pinned repositories are various projects and documentation that Kissu uses on it's site.
 ### Kissu Software and Related Side Projects
 Kissu.moe runs on a heavily modified variant of Vichan which interacts with various side services.<br/>
 I am currently progressing towards a replacement for Vichan given PHP7.4's security EoL in November 2022. <br/>
