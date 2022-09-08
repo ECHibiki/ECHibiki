@@ -1,6 +1,7 @@
 ### Hi there 👋
-The pinned repositories are various projects that Kissu uses on it's site.<br/>
-Kissu.moe runs on a heavily modified variant of Vichan which interacts with various side services. I am currently progressing towards a replacement for vichan given PHP7.4's security EoL in November 2022. There are currently no plans for this replacement to be open source however projects such as https://github.com/ECHibiki/Community-Banners-2.0 , https://github.com/ECHibiki/Kissu-Feedback-and-Forms and the future search.php replacement service are open source and used as ways for me to gain expertise with golang before writting a serious imageboard engine.
+The pinned repositories are various projects that Kissu uses on it's site.
+### Kissu Software
+Kissu.moe runs on a heavily modified variant of Vichan which interacts with various side services.<br/>I am currently progressing towards a replacement for vichan given PHP7.4's security EoL in November 2022. There are currently no plans for this replacement to be open source however projects such as ECHibiki/Community-Banners-2.0 , ECHibiki/Kissu-Feedback-and-Forms and the future search.php replacement service are open source and used as ways for me to gain expertise with golang. These projects are educational in nature and therefore I have little concern what you do with them, beyond following the liscences. This projects are ways for me to learn how to write a serious imageboard engine, perhaps you could do the same for your own purpose.
 
 <!--
 **ECHibiki/ECHibiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
