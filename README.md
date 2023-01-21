@@ -1,26 +1,8 @@
-### Hi there 👋
-The pinned repositories are various projects and documentation that Kissu uses on it's site. Since there may be some confusion over which repositories on my account are used on Kissu, anything used on the site should follow the pattern Kissu-* or kissu-*
 ### Kissu Software and Related Side Projects
 Kissu.moe runs on a heavily modified variant of Vichan which interacts with various side services.<br/>
-I am currently progressing towards a replacement for Vichan given PHP7.4's security EoL in November 2022. <br/>
-See ECHibiki/Community-Banners-2.0 and ECHibiki/Kissu-Feedback-and-Forms for some free imageboard tools in Golang.
+I am currently progressing towards a replacement for Vichan in Golang<br/>
 
 ### The Kissu-UI and Vichan-UI
-Kissu-Fr(AKA the Kissu-UI or New-UI) is a modern ReactJS user interface blending the old school frames style with modern javascript dynamic page rendering. This UI is also closed source. It is a single page application meaning the client is forever existing within the same document and navigates around through requesting JSON files from the server. 
+Kissu-Fr(AKA the Kissu-UI or New-UI) is a modern ReactJS user interface aimed at modernizing the imageboard experience. Rather than a collection of pages, it is a React web application.  
 <br/>
-Because not everyone can run the Kissu-UI( as of writting iOS devices and obviously users not running javascript) Kissu has a dependance on the vichan pages rendered on Twig templates. Though, there is a plan to handle the html files in another templating language
-
-<!--
-**ECHibiki/ECHibiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Because not everyone can run the Kissu-UI(as of writting iOS devices and obviously users not running javascript) Kissu has a dependance on the vichan pages rendered on Twig templates. Though, there is a plan to handle the html files in another templating language. Future work on Kissu will always have the web-app and the html pages.
