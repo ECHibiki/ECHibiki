@@ -1,6 +1,6 @@
 ### Kissu Software and Related Side Projects
 Kissu.moe runs on a heavily modified variant of Vichan which interacts with various side services.<br/>
-I am currently progressing towards a replacement for Vichan in Golang<br/>
+I am currently progressing towards a replacement for Vichan in Rustlang<br/>
 
 ### The Kissu-UI and Vichan-UI
 Kissu-Fr(AKA the Kissu-UI or New-UI) is a modern ReactJS user interface aimed at modernizing the imageboard experience. Rather than a collection of pages, it is a React web application.  
